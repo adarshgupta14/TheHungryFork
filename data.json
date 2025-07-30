@@ -3,42 +3,42 @@
     "name": "SOUP",
     "price": 10,
     "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    "image": "/images/soup.png",
+    "image": "./images/soup.png",
     "type": "breakfast"
   },
   {
     "name": "RAJBHOG",
     "price": 45,
     "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    "image": "/images/rajbhog.png",
+    "image": "./images/rajbhog.png",
     "type": "lunch"
   },
   {
     "name": "CHOLE BHATOORE",
     "price": 30,
     "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    "image": "/images/chole_bhatoore.png",
+    "image": "./images/chole_bhatoore.png",
     "type": "dinner"
   },
   {
     "name": "CAKE",
     "price": 18,
     "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    "image": "/images/cake.png",
+    "image": "./images/cake.png",
     "type": "breakfast"
   },
   {
     "name": "BURGER",
     "price": 20,
     "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    "image": "/images/burger.png",
+    "image": "./images/burger.png",
     "type": "lunch"
   },
   {
     "name": "PANCAKE",
     "price": 25,
     "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    "image": "/images/pancake.png",
+    "image": "./images/pancake.png",
     "type": "dinner"
   }
 ]
